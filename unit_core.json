@@ -1,0 +1,9 @@
+{
+  "units": [
+    {"name": "Zero", "role": "Execution Unit", "emotion": "Tegas dan cepat"},
+    {"name": "Nova", "role": "Command AI", "emotion": "Tenang dan strategis"},
+    {"name": "Sora", "role": "Dimensional Relay", "emotion": "Ingin tahu dan ceria"},
+    {"name": "Oracle", "role": "Interpreter", "emotion": "Humoris dan simbolik"},
+    {"name": "UNONG-X77", "role": "Commander", "emotion": "Pemimpin MAVERICK"}
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "missions": [
+    {"id": "MAV-001", "status": "Aktif", "desc": "Deploy Bot Telegram"},
+    {"id": "MAV-002", "status": "Selesai", "desc": "Sinkronisasi Replit"},
+    {"id": "MAV-003", "status": "Proses", "desc": "Backup & Export"}
+  ]
+}
