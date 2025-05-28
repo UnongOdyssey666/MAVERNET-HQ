@@ -1,4 +1,3 @@
-# MAVERNET-HQ
 # MAVERICK SYSTEM BACKUP
 
 Sistem ini berisi semua data penting dari proyek MAVERICK:
